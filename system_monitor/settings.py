@@ -129,5 +129,5 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True  
 EMAIL_HOST_USER = "askankit07@gmail.com"
-EMAIL_HOST_PASSWORD = 'bqxs csud fajd azai'
+EMAIL_HOST_PASSWORD = ''
 
